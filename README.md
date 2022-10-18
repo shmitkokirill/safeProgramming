@@ -1,4 +1,4 @@
-# safeProgramming
+# Safe Programming
 You need these additional libraries to launch lab1 and lab2 programs:
 -'json-c' - is for lab1/1_3
 -'pugixml' - is for lab1/1_4
